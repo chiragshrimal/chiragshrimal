@@ -94,7 +94,7 @@
 ## 📊 GitHub Tech Usage
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragshrimal&layout=compact&theme=radical)
+!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragshrimal&layout=compact&theme=radical&cache_seconds=10)
 
 
 
