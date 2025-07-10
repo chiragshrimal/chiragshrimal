@@ -64,7 +64,7 @@
 | [**Learning Management System (LMS)**](https://github.com/chiragshrimal/Coursify-Learning-Management-System)             | Platform with user, course, and payment modules.                      |
 | [**Chat App**](https://github.com/chiragshrimal/Chat-App)                                | Real-time chat application using WebSocket and Node.js.               |
 | [**College Management System**](https://github.com/chiragshrimal/College_management_project) | Handles attendance, gate entry, library, complaints, student/faculty dashboards and more. |
-| [**Tic-Tac-Toe Game**](https://github.com/chiragshrimal/Tic-Tac-Toe)                     | Classic Tic-Tac-Toe game implemented with simple web technologies.    |
+| [**Tic-Tac-Toe Game**](https://github.com/chiragshrimal/React-Tic-Tac-Toe)                     | Classic Tic-Tac-Toe game implemented with simple web technologies.    |
 
 
 👉 Check all my repos at [github.com/chiragshrimal?tab=repositories](https://github.com/chiragshrimal?tab=repositories)
