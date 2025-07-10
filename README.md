@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chirag Shrimal
+# 👋 Hi, I'm Chirag
 
 🎓 I'm a Computer Science Engineering student at IIITG (Batch 2026).  
 💻 Passionate about building full-stack applications, designing scalable systems, and solving challenging problems.
