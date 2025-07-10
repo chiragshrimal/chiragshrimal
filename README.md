@@ -63,6 +63,7 @@
 | **FitTrackAI**                             | MERN app that tracks user exercises via webcam, counts reps & connects trainers with trainees. |
 | **Learning Management System (LMS)**       | Platform with user, course, and payment modules.                      |
 | **Chat App**                               | Real-time chat application using WebSocket and Node.js.               |
+| **College Management System**              | Handles attendance, gate entry, library, complaints, student/faculty dashboards and more. |
 
 👉 Check all my repos at [github.com/chiragshrimal?tab=repositories](https://github.com/chiragshrimal?tab=repositories)
 
