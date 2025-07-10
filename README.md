@@ -87,6 +87,12 @@
 - 🏆 [CodeChef](https://www.codechef.com/users/chirag_42)
 
 
+## 📊 GitHub Tech Usage
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragshrimal&layout=compact&theme=radical)
+
+
+
 ---
 
 ## 📫 How to reach me
