@@ -46,7 +46,6 @@
 - Linux (shell scripting, system commands)
 
 ### Network & Security
-- RADIUS
 - Strong knowledge of OS, Computer Networks, DBMS
 
 ---
@@ -70,7 +69,7 @@
 ---
 
 ## ⚡ Competitive Programming
-- 🔥 [Codeforces](https://www.codechef.com/users/chirag_42)
+- 🔥 [Codeforces](https://codeforces.com/profile/chirag_1342)
 - 🚀 [LeetCode](https://leetcode.com/u/chiragshrimal/)
 - 🏆 [CodeChef](https://www.codechef.com/users/chirag_42)
 
