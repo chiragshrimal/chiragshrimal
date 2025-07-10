@@ -86,6 +86,12 @@
 - 🚀 [LeetCode](https://leetcode.com/u/chiragshrimal/)
 - 🏆 [CodeChef](https://www.codechef.com/users/chirag_42)
 
+
+## 📊 GitHub Stats
+
+![Chirag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiragshrimal&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragshrimal&layout=compact&theme=radical)
+
 ---
 
 ## 📫 How to reach me
