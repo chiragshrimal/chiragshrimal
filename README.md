@@ -74,7 +74,7 @@
 ## 💡 Some Projects
 | Project                                    | Description                                                           |
 |--------------------------------------------|-----------------------------------------------------------------------|
-| [**FitTrackAI**]((https://github.com/chiragshrimal/FitTrack-AI.git))                             | MERN app that tracks user exercises via webcam, counts reps & connects trainers with trainees. |
+| [**FitTrackAI**](https://github.com/chiragshrimal/FitTrack-AI.git)                             | MERN app that tracks user exercises via webcam, counts reps & connects trainers with trainees. |
 | [**Learning Management System (LMS)**](https://github.com/chiragshrimal/Coursify-Learning-Management-System)             | Platform with user, course, and payment modules.                      |
 | [**Chat App**](https://github.com/chiragshrimal/Chat-App)                                | Real-time chat application using WebSocket and Node.js.               |
 | [**College Management System**](https://github.com/chiragshrimal/College_management_project) | Handles attendance, gate entry, library, complaints, student/faculty dashboards and more. |
